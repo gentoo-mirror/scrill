@@ -1,0 +1,45 @@
+app-admin/amazon-ec2-init 20110331: Init script to setup Amazon EC2 instance parameters
+app-admin/aws-as-tools 1.0.61.2: The API tools serve as the client interface to the Auto Scaling web service
+app-admin/aws-cfn-bootstrap 1.3: Bootstrap scripts for AWS CloudFormation
+app-admin/aws-cfn-tools 1.0.11: The command line tools serve as the client interface to the AWS CloudFormation web service
+app-admin/aws-cw-tools 1.0.13.4: The API tools serve as the client interface to the Amazon CloudWatch web service
+app-admin/aws-elb-tools 1.0.17.0: The API tools serve as the client interface to the Elastic Load Balancing web service
+app-admin/aws-iam-tools 1.5.0: The Command Line Interface (CLI) for the AWS Identity and Access Management (IAM) Service
+app-admin/aws-rds-tools 1.10.003: The Command Line Toolkit for the Amazon Relational Database Service
+app-admin/aws-sns-tools 1.0.3.3: Command Line Interface Tool for Amazon Simple Notification Service
+app-admin/awscli 1.0.0: Universal Command Line Environment for AWS
+app-admin/reprepro 4.3.0-r1: Debian repository creator and maintainer application
+app-crypt/tpmmanager 0.8.1-r1: TPM management software providing an easy to use graphical user interface
+app-editors/geppetto 2.1.0: An integrated toolset for developing puppet modules and manifests
+app-editors/komodo-edit-bin 6.1.3-r1 7.0.0: Freeware advanced editor for dynamic and Web languages
+app-editors/sublime-text 2.0.1: Sublime Text is a sophisticated text editor for code, html and prose
+app-laptop/lenovo-sl-laptop 9999: Linux kernel support for the Lenovo SL series ThinkPads
+app-laptop/tp_smapi 9999: IBM ThinkPad SMAPI BIOS driver
+app-misc/tnote 0.2.1: A small note taking program for the terminal
+app-shells/zsh-completions 9999: Additional completion definitions for Zsh
+dev-python/bcdoc 0.9.0: ReST document generation tools for botocore
+dev-python/botocore 0.16.0: Low-level, data-driven core of boto 3
+dev-python/colorama 0.2.5: Makes ANSI escape character sequences, for producing colored terminal text and cursor positioning
+dev-python/jmespath 0.0.2: JSON Matching Expressions
+dev-ruby/aws-ses 0.4.3: Client library for Amazon's Simple Email Service's REST API
+dev-ruby/excon 0.7.6: EXtended http(s) CONnections
+dev-ruby/fog 1.1.1: The Ruby cloud services library
+dev-ruby/formatador 0.2.1: STDOUT text formatting
+dev-ruby/zabbix 0.4.0: Send data to Zabbix from Ruby
+dev-ruby/zabbixapi 0.1.4-r1: Ruby module for work with Zabbix API
+kde-base/kdebase-runtime-meta 4.11.2-r1: Merge this to pull in all kdebase-runtime-derived packages
+kde-base/plasma-workspace 4.11.2-r1: Plasma: KDE desktop framework
+kde-misc/kaption 0.1.1-r3: A KDE utility similar to Jing or Skitch not yet as powerful as them
+media-gfx/splash-themes-livecd 2010.0: Gentoo theme for gensplash consoles
+media-gfx/yed 3.11.1: Powerful diagram editor that can be used to generate high-quality drawings of diagrams.
+net-im/nagzilla 2.0: Jabber Relay Bot - for monitoring and any other sort of alert needs you have
+net-im/qutim 0.2.0-r4: New Qt4-based Instant Messenger (ICQ).
+net-im/skype 4.3.0.37-r1: P2P Internet Telephony (VoiceIP) client
+net-misc/mirall 1.1.0-r1: Synchronization of your folders with another computers
+net-misc/rabbitmq-stomp-plugin 2.5.1 2.6.1: RabbitMQ STOMP plugin.
+net-misc/udpxy 1.0.21-r2: Daemon to relay multicast UDP traffic to client's TCP (HTTP) connection
+virtual/aws-tools 0: Virtual for AWS tools
+x11-misc/nevernote 0.99: An open source Evernote clone
+x11-misc/qomodoro 0.1-r1: Cross-platform pomodoro timer written in C++ using Qt4
+x11-themes/milky 2.0_alpha2-r2 2.0-r2: Icon theme for KDE 4 designed by Banu Onal
+x11-themes/qutim-kolobok 0.0.2: Kolobok smile pack for net-im/qutim
