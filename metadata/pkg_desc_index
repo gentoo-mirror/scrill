@@ -32,7 +32,6 @@ kde-base/plasma-workspace 4.11.2-r1: Plasma: KDE desktop framework
 kde-misc/kaption 0.1.1-r3: A KDE utility similar to Jing or Skitch not yet as powerful as them
 media-gfx/splash-themes-livecd 2010.0: Gentoo theme for gensplash consoles
 media-gfx/yed 3.11.1: Powerful diagram editor that can be used to generate high-quality drawings of diagrams.
-net-im/nagzilla 2.0: Jabber Relay Bot - for monitoring and any other sort of alert needs you have
 net-im/qutim 0.2.0-r4: New Qt4-based Instant Messenger (ICQ).
 net-im/skype 4.3.0.37-r1: P2P Internet Telephony (VoiceIP) client
 net-misc/mirall 1.1.0-r1: Synchronization of your folders with another computers
