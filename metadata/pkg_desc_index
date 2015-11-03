@@ -26,6 +26,7 @@ dev-ruby/aws-ses 0.4.3: Client library for Amazon's Simple Email Service's REST 
 dev-ruby/excon 0.7.6: EXtended http(s) CONnections
 dev-ruby/fog 1.1.1: The Ruby cloud services library
 dev-ruby/formatador 0.2.1: STDOUT text formatting
+dev-ruby/rvm 1.11.3.8: RVM Ruby Gem Library
 dev-ruby/zabbix 0.4.0: Send data to Zabbix from Ruby
 dev-ruby/zabbixapi 0.1.4-r1: Ruby module for work with Zabbix API
 kde-base/kdebase-runtime-meta 4.11.2-r1: Merge this to pull in all kdebase-runtime-derived packages
