@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst unpack
+DEPEND=app-arch/unzip
+DESCRIPTION=The API tools serve as the client interface to the Amazon CloudWatch web service
+EAPI=2
+HOMEPAGE=http://aws.amazon.com/developertools/2534
+KEYWORDS=~amd64 ~x86
+LICENSE=Amazon
+RDEPEND=virtual/jre
+RESTRICT=mirror
+SLOT=0
+SRC_URI=http://ec2-downloads.s3.amazonaws.com/CloudWatch-2010-08-01.zip
+_eclass_exported_funcs=pkg_postinst:- src_unpack:- src_install:-
+_md5_=64c0ddd7575b0b29041041cb3eba34a9

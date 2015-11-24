@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst unpack
+DEPEND=>=app-shells/zsh-4.3.5 dev-vcs/git
+DESCRIPTION=Additional completion definitions for Zsh
+EAPI=2
+HOMEPAGE=https://github.com/zsh-users/zsh-completions
+IUSE=ack adb ag android attach +baselayout bpython brew bundle cabal cap celery choc coffee cpanm debuild dget dhcpcd ditz docpad dzen2 emulator exportfs fab gas geany gem genlop gist git-flow github git-pulls git-wtf google gradle heroku httpie id3 id3v2 jekyll jmeter jmeter-plugins jonas jq knife language_codes lein logger lunar lunchy manage.py middleman mina mosh mpv mussh mvn node nvm optirun pactree pear perf periscope pgsql_utils pip pkcon play port primus pygmentize rails ralio redis-cli rvm salt sbt scala sdd setup.py showoff smartmontools socat srm ssh-copy-id subliminal svm symfony teamocil thor tmuxinator vagrant veewee virtualbox vnstat vpnc wemux yaourt
+LICENSE=ZSH
+RDEPEND=>=app-shells/zsh-4.3.5
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:- src_unpack:git-2 src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=5b30fccda1d82a268d964744ed61cb7d

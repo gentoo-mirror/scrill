@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst unpack
+DEPEND=app-arch/unzip
+DESCRIPTION=The API tools serve as the client interface to the Auto Scaling web service
+EAPI=2
+HOMEPAGE=http://aws.amazon.com/developertools/2535
+KEYWORDS=~amd64 ~x86
+LICENSE=Amazon
+RDEPEND=virtual/jre
+RESTRICT=mirror
+SLOT=0
+SRC_URI=http://ec2-downloads.s3.amazonaws.com/AutoScaling-2011-01-01.zip
+_eclass_exported_funcs=pkg_postinst:- src_unpack:- src_install:-
+_md5_=d47a97401baf0b48845358de105231df

@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst unpack
+DEPEND=app-arch/unzip
+DESCRIPTION=The command line tools serve as the client interface to the AWS CloudFormation web service
+EAPI=2
+HOMEPAGE=http://aws.amazon.com/developertools/2555753788650372
+KEYWORDS=~amd64 ~x86
+LICENSE=Amazon
+RDEPEND=virtual/jre
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://s3.amazonaws.com/cloudformation-cli/AWSCloudFormation-cli.zip
+_eclass_exported_funcs=pkg_postinst:- src_unpack:- src_install:-
+_md5_=bd8f4b1fe95f39f18ca5ba6d0ede7548
