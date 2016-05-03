@@ -37,6 +37,7 @@ media-gfx/yed 3.11.1: Powerful diagram editor that can be used to generate high-
 net-im/qutim 0.2.0-r4: New Qt4-based Instant Messenger (ICQ).
 net-im/scudcloud 9999: A Linux client for Slack
 net-im/skype 4.3.0.37-r1: P2P Internet Telephony (VoiceIP) client
+net-im/viber 9999: Free calls, text and picture sharing with anyone, anywhere!
 net-misc/mirall 1.1.0-r1: Synchronization of your folders with another computers
 net-misc/rabbitmq-stomp-plugin 2.5.1 2.6.1: RabbitMQ STOMP plugin.
 net-misc/udpxy 1.0.21-r2: Daemon to relay multicast UDP traffic to client's TCP (HTTP) connection
