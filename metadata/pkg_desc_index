@@ -1,6 +1,5 @@
 app-admin/amazon-ec2-init 20110331: Init script to setup Amazon EC2 instance parameters
 app-admin/aws-as-tools 1.0.61.2: The API tools serve as the client interface to the Auto Scaling web service
-app-admin/aws-cfn-bootstrap 1.3: Bootstrap scripts for AWS CloudFormation
 app-admin/aws-cfn-tools 1.0.11: The command line tools serve as the client interface to the AWS CloudFormation web service
 app-admin/aws-cw-tools 1.0.13.4: The API tools serve as the client interface to the Amazon CloudWatch web service
 app-admin/aws-elb-tools 1.0.17.0: The API tools serve as the client interface to the Elastic Load Balancing web service
@@ -16,7 +15,6 @@ app-editors/komodo-edit-bin 6.1.3-r1 7.0.0: Freeware advanced editor for dynamic
 app-editors/sublime-text 2.0.1: Sublime Text is a sophisticated text editor for code, html and prose
 app-laptop/lenovo-sl-laptop 9999: Linux kernel support for the Lenovo SL series ThinkPads
 app-laptop/tp_smapi 9999: IBM ThinkPad SMAPI BIOS driver
-app-misc/tnote 0.2.1: A small note taking program for the terminal
 app-shells/zsh-completions 9999: Additional completion definitions for Zsh
 dev-python/bcdoc 0.9.0: ReST document generation tools for botocore
 dev-python/botocore 0.16.0: Low-level, data-driven core of boto 3
