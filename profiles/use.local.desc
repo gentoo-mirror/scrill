@@ -55,11 +55,6 @@ app-shells/zsh-completions:vagrant -
 app-shells/zsh-completions:virtualbox - 
 app-shells/zsh-completions:vpnc - 
 app-shells/zsh-completions:zargs - 
-net-im/qutim:histman - Enable histman plugin
-net-im/qutim:irc - Enable irc support
-net-im/qutim:mrim - Enable mrim plugin
-net-im/qutim:vkontakte - Enable vkontakte plugin
-net-im/qutim:yandexnarod - Enable yanderx.narod plugin
 net-im/skype:apulse - Use media-sound/apulse for PulseAudio emulation
 net-im/skype:pax_kernel - Triggers a paxmarking of the main skype binary
 virtual/aws-tools:ami - Support for AWS EC2 AMI tools
