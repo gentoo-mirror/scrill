@@ -16,6 +16,19 @@ IUSE=""
 
 S="${WORKDIR}"
 
+src_unpack() {
+  rpm_src_unpack ${A}
+}
+
 src_install() {
-  cp -R "${S}/"* "${D}/" || die "Install failed!"
+  insinto /opt
+  doins -r opt/bluejeans
+
+  local res
+  for res in 16 24 32 256; do
+    newicon -s ${res} opt/bluejeans/icons/hicolor/${res}x${res}/apps/bluejeans.png ${PN}.png
+  done
+
+  dobin opt/bluejeans/bluejeans
+  domenu opt/bluejeans/bluejeans.desktop
 }
