@@ -30,6 +30,7 @@ dev-ruby/zabbixapi 0.1.4-r1: Ruby module for work with Zabbix API
 kde-misc/kaption 0.1.1-r3: A KDE utility similar to Jing or Skitch not yet as powerful as them
 media-gfx/splash-themes-livecd 2010.0: Gentoo theme for gensplash consoles
 media-gfx/yed 3.11.1: Powerful diagram editor that can be used to generate high-quality drawings of diagrams.
+net-im/bluejeans 1.28.9: Online meetings, video conferencing, and screen sharing for teams of any size
 net-im/scudcloud 9999: A Linux client for Slack
 net-im/skype 4.3.0.37-r1: P2P Internet Telephony (VoiceIP) client
 net-im/viber 6.5.5.1481: Free calls, text and picture sharing with anyone, anywhere!
