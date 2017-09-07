@@ -5,5 +5,4 @@ IUSE=ami +api as cfn cw elb iam rds sns
 KEYWORDS=~amd64 ~x86
 RDEPEND=ami? ( app-admin/ec2-ami-tools ) api? ( app-admin/ec2-api-tools ) as? ( app-admin/aws-as-tools ) cfn? ( app-admin/aws-cfn-tools ) cw? ( app-admin/aws-cw-tools ) elb? ( app-admin/aws-elb-tools ) iam? ( app-admin/aws-iam-tools ) rds? ( app-admin/aws-rds-tools ) sns? ( app-admin/aws-sns-tools )
 SLOT=0
-_eclass_exported_funcs=-
 _md5_=53d85b258ba2c03e83eb8a3c14a03235

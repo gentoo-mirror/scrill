@@ -9,5 +9,4 @@ RDEPEND=virtual/jre
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://s3.amazonaws.com/cloudformation-cli/AWSCloudFormation-cli.zip
-_eclass_exported_funcs=pkg_postinst:- src_unpack:- src_install:-
 _md5_=bd8f4b1fe95f39f18ca5ba6d0ede7548

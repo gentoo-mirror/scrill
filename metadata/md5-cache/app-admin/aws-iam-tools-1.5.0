@@ -9,5 +9,4 @@ RDEPEND=virtual/jre
 RESTRICT=mirror
 SLOT=0
 SRC_URI=http://awsiammedia.s3.amazonaws.com/public/tools/cli/latest/IAMCli.zip
-_eclass_exported_funcs=pkg_postinst:- src_unpack:- src_install:-
 _md5_=df3704f094d73f035e097c311206359b
