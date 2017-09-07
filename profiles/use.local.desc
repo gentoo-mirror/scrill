@@ -2,7 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-editors/komodo-edit-bin:templates - Install default templates.
 app-shells/zsh-completions:ack - 
 app-shells/zsh-completions:adb - 
 app-shells/zsh-completions:android - 
