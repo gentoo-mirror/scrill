@@ -49,12 +49,6 @@
         homepage    => "http://cloudsmith.github.com/geppetto"
       }
 
-      sublime-text {
-        version     => "2.0.1",
-        description => "Sublime Text is a sophisticated text editor for code, html and prose",
-        homepage    => "http://www.sublimetext.com"
-      }
-
     }
 
     app-laptop {
@@ -79,80 +73,6 @@
         version     => "9999",
         description => "Additional completion definitions for Zsh",
         homepage    => "https://github.com/zsh-users/zsh-completions"
-      }
-
-    }
-
-    dev-python {
-
-      colorama {
-        version     => "0.2.5",
-        description => "Makes ANSI escape character sequences, for producing colored",
-        homepage    => "http://code.google.com/p/colorama/"
-      }
-
-      bcdoc {
-        version     => "0.9.0",
-        description => "ReST document generation tools for botocore",
-        homepage    => "https://github.com/boto/bcdoc https://pypi.python.org/pypi/bcdoc"
-      }
-
-      jmespath {
-        version     => "0.0.2",
-        description => "JSON Matching Expressions",
-        homepage    => "https://github.com/boto/jmespath https://pypi.python.org/pypi/jmespath"
-      }
-
-      botocore {
-        version     => "0.16.0",
-        description => "Low-level, data-driven core of boto 3",
-        homepage    => "https://github.com/boto/botocore https://pypi.python.org/pypi/botocore"
-      }
-
-    }
-
-    dev-ruby {
-
-      excon {
-        version     => "0.7.6",
-        description => "EXtended http(s) CONnections",
-        homepage    => "https://github.com/geemus/excon"
-      }
-
-      fog {
-        version     => "1.1.1",
-        description => "The Ruby cloud services library",
-        homepage    => "http://fog.io/"
-      }
-
-      aws-ses {
-        version     => "0.4.3",
-        description => "Client library for Amazon's Simple Email Service's REST API",
-        homepage    => "https://github.com/drewblas/aws-ses"
-      }
-
-      rvm {
-        version     => "1.11.3.8",
-        description => "RVM Ruby Gem Library",
-        homepage    => "https://rvm.io"
-      }
-
-      formatador {
-        version     => "0.2.1",
-        description => "STDOUT text formatting",
-        homepage    => "https://github.com/geemus/formatador"
-      }
-
-      zabbix {
-        version     => "0.4.0",
-        description => "Send data to Zabbix from Ruby",
-        homepage    => "https://github.com/mhat/zabbix-rb"
-      }
-
-      zabbixapi {
-        version     => "0.1.4-r1",
-        description => "Ruby module for work with Zabbix API",
-        homepage    => "http://github.com/verm666/RubyZabbixApi"
       }
 
     }
@@ -189,12 +109,6 @@
 
     net-im {
 
-      scudcloud {
-        version     => "9999",
-        description => "A Linux client for Slack",
-        homepage    => "https://github.com/${MY_AUTHOR}/${PN}"
-      }
-
       bluejeans {
         version     => "1.28.9",
         description => "Online meetings, video conferencing, and screen sharing for teams of any size",
@@ -205,12 +119,6 @@
         version     => "6.5.5.1481",
         description => "Free calls, text and picture sharing with anyone, anywhere!",
         homepage    => "http://www.viber.com"
-      }
-
-      skype {
-        version     => "4.3.0.37-r1",
-        description => "P2P Internet Telephony (VoiceIP) client",
-        homepage    => "http://www.skype.com/"
       }
 
     }
@@ -227,16 +135,6 @@
         version     => "1.0.21-r2",
         description => "Daemon to relay multicast UDP traffic to client's TCP (HTTP) connection",
         homepage    => "http://sourceforge.net/projects/udpxy"
-      }
-
-    }
-
-    virtual {
-
-      aws-tools {
-        version     => "0",
-        description => "Virtual for AWS tools",
-        homepage    => ""
       }
 
     }
@@ -263,12 +161,6 @@
         version     => [ "2.0-r2", "2.0_alpha2-r2" ],
         description => "Icon theme for KDE 4 designed by Banu Onal",
         homepage    => "http://kde-look.org/content/show.php/Milky?content=133124"
-      }
-
-      qutim-kolobok {
-        version     => "0.0.2",
-        description => "Kolobok smile pack for net-im/qutim",
-        homepage    => "http://www.qutim.org"
       }
 
     }
