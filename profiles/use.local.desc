@@ -54,14 +54,3 @@ app-shells/zsh-completions:vagrant -
 app-shells/zsh-completions:virtualbox - 
 app-shells/zsh-completions:vpnc - 
 app-shells/zsh-completions:zargs - 
-net-im/skype:apulse - Use media-sound/apulse for PulseAudio emulation
-net-im/skype:pax_kernel - Triggers a paxmarking of the main skype binary
-virtual/aws-tools:ami - Support for AWS EC2 AMI tools
-virtual/aws-tools:api - Support for AWS EC2 API tools
-virtual/aws-tools:as - Support for Auto Scaling tools
-virtual/aws-tools:cfn - Support for CloudFormation tools
-virtual/aws-tools:cw - Support for CloudWatch tools
-virtual/aws-tools:elb - Support for Elastic Load Balancing tools
-virtual/aws-tools:iam - Support for Identity and Access Management tools
-virtual/aws-tools:rds - Support for Relational Database Service tools
-virtual/aws-tools:sns - Support for Simple Notification Service tools
