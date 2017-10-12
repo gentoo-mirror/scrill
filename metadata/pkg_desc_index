@@ -2,6 +2,7 @@ app-admin/amazon-ec2-init 20110331: Init script to setup Amazon EC2 instance par
 app-admin/reprepro 4.3.0-r1: Debian repository creator and maintainer application
 app-backup/insync 1.2.7-r1: Advanced cross-platform Google Drive client
 app-crypt/tpmmanager 0.8.1-r1: TPM management software providing an easy to use graphical user interface
+app-editors/atom-bin 1.21.0-r1: A hackable text editor for the 21st Century - Binary package
 app-editors/geppetto 2.1.0: An integrated toolset for developing puppet modules and manifests
 app-laptop/lenovo-sl-laptop 9999: Linux kernel support for the Lenovo SL series ThinkPads
 app-laptop/tp_smapi 9999: IBM ThinkPad SMAPI BIOS driver
