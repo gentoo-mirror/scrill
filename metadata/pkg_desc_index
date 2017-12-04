@@ -11,7 +11,7 @@ kde-misc/kaption 0.1.1-r4: A KDE utility similar to Jing or Skitch not yet as po
 media-gfx/splash-themes-livecd 2010.0: Gentoo theme for gensplash consoles
 media-gfx/yed 3.11.1: Powerful diagram editor that can be used to generate high-quality drawings of diagrams.
 net-im/bluejeans 1.28.9: Online meetings, video conferencing, and screen sharing for teams of any size
-net-im/viber 6.5.5.1481: Free calls, text and picture sharing with anyone, anywhere!
+net-im/viber 7.0.0.1035: Free calls, text and picture sharing with anyone, anywhere!
 net-misc/rabbitmq-stomp-plugin 2.5.1 2.6.1: RabbitMQ STOMP plugin.
 net-misc/udpxy 1.0.21-r2: Daemon to relay multicast UDP traffic to client's TCP (HTTP) connection
 x11-misc/nevernote 0.99: An open source Evernote clone
