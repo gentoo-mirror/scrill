@@ -33,37 +33,12 @@
           ]
         }
       },
-      "app-editors": {
-        "atom-bin": {
-          "description": "A hackable text editor for the 21st Century - Binary package",
-          "homepage": "https://atom.io",
-          "version": [
-            "1.21.0-r1"
-          ]
-        },
-        "geppetto": {
-          "description": "An integrated toolset for developing puppet modules and manifests",
-          "homepage": "http://cloudsmith.github.com/geppetto",
-          "version": [
-            "2.1.0"
-          ]
-        }
-      },
       "app-shells": {
         "zsh-completions": {
           "description": "Additional completion definitions for Zsh",
           "homepage": "https://github.com/zsh-users/zsh-completions",
           "version": [
             "9999"
-          ]
-        }
-      },
-      "kde-misc": {
-        "kaption": {
-          "description": "A KDE utility similar to Jing or Skitch not yet as powerful as them",
-          "homepage": "http://opendesktop.org/content/show.php?content=139302",
-          "version": [
-            "0.1.1-r7"
           ]
         }
       },
@@ -116,13 +91,6 @@
           "homepage": "http://nevernote.sourceforge.net/index.htm",
           "version": [
             "0.99"
-          ]
-        },
-        "qomodoro": {
-          "description": "Cross-platform pomodoro timer written in C++ using Qt4",
-          "homepage": "http://sourceforge.net/p/qomodoro/",
-          "version": [
-            "0.1-r2"
           ]
         }
       },
