@@ -11,7 +11,7 @@ net-im/viber 7.0.0.1035-r2: Free calls, text and picture sharing with anyone, an
 net-misc/rclone-browser 1.2: Simple cross platform GUI for Rclone
 net-misc/udpxy 1.0.21-r2: Daemon to relay multicast UDP traffic to client's TCP (HTTP) connection
 x11-misc/betaflight-blackbox-explorer 3.4.0: This tool allows you to open logs recorded by Betaflight's Blackbox feature
-x11-misc/betaflight-configurator 10.6.0_rc2: Crossplatform configuration tool for the Betaflight flight control system
+x11-misc/betaflight-configurator 10.6.0_rc2 10.6.0: Crossplatform configuration tool for the Betaflight flight control system
 x11-misc/blheli-configurator 1.1.0: Application for BLHeli firmware flashing and configuration
 x11-misc/jesc-configurator 1.2.4: Application for JESC firmware flashing and configuration
 x11-themes/milky 2.0_alpha2-r2 2.0-r2: Icon theme for KDE 4 designed by Banu Onal
