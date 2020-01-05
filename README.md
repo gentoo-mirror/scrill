@@ -128,14 +128,16 @@
           "description": "Application for BLHeli firmware flashing and configuration",
           "homepage": "https://github.com/blheli-configurator/blheli-configurator",
           "version": [
-            "1.1.0"
+            "1.1.0",
+            "1.2.0"
           ]
         },
         "jesc-configurator": {
           "description": "Application for JESC firmware flashing and configuration",
           "homepage": "https://github.com/jflight-public/jesc-configurator",
           "version": [
-            "1.2.4"
+            "1.2.4",
+            "1.2.6"
           ]
         },
         "opentx-companion": {
