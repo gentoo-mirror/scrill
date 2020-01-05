@@ -113,22 +113,20 @@
           "description": "This tool allows you to open logs recorded by Betaflight's Blackbox feature",
           "homepage": "https://github.com/betaflight/blackbox-log-viewer",
           "version": [
-            "3.4.0"
+            "3.4.0-r1"
           ]
         },
         "betaflight-configurator": {
           "description": "Crossplatform configuration tool for the Betaflight flight control system",
           "homepage": "https://github.com/betaflight/betaflight-configurator",
           "version": [
-            "10.6.0",
-            "10.6.0_rc2"
+            "10.6.0-r1"
           ]
         },
         "blheli-configurator": {
           "description": "Application for BLHeli firmware flashing and configuration",
           "homepage": "https://github.com/blheli-configurator/blheli-configurator",
           "version": [
-            "1.1.0",
             "1.2.0"
           ]
         },
@@ -136,7 +134,6 @@
           "description": "Application for JESC firmware flashing and configuration",
           "homepage": "https://github.com/jflight-public/jesc-configurator",
           "version": [
-            "1.2.4",
             "1.2.6"
           ]
         },

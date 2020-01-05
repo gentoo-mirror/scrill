@@ -7,7 +7,7 @@ inherit desktop eutils
 
 DESCRIPTION="Crossplatform configuration tool for the Betaflight flight control system"
 HOMEPAGE="https://github.com/betaflight/betaflight-configurator"
-SRC_URI="https://github.com/betaflight/betaflight-configurator/releases/download/10.6.0-RC2/betaflight-configurator_10.6.0-RC2_linux64.zip"
+SRC_URI="https://github.com/betaflight/betaflight-configurator/releases/download/${PV}/betaflight-configurator_${PV}_linux64.zip"
 LICENSE="GPL-3"
 RESTRICT="mirror test"
 
@@ -30,11 +30,5 @@ src_unpack() {
 src_install() {
 	dodir ${DST_APPDIR}
 	cp -a "${SRC_APPDIR}"/* "${D}${DST_APPDIR}"/ || die
-
-	doicon "${SRC_APPDIR}"/icon/bf_icon_128.png
-	local res
-	for res in 16 32 256 512; do
-		doicon -s $res "${SRC_APPDIR}"/icon/bf_icon_128.png
-	done
 	domenu "${SRC_APPDIR}"/betaflight-configurator.desktop
 }
