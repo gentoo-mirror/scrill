@@ -9,4 +9,4 @@ RESTRICT=mirror test
 SLOT=0
 SRC_URI=https://github.com/betaflight/blackbox-log-viewer/releases/download/3.4.0/betaflight-blackbox-explorer_3.4.0_linux64.zip
 _eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	eutils	fcb2aa98e1948b835b5ae66ca52868c5
-_md5_=68b201d5229c79ca5b28783e202483df
+_md5_=1e4e6451c62a9cab4d6f23f51c582dbe

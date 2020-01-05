@@ -9,4 +9,4 @@ RESTRICT=mirror test
 SLOT=0
 SRC_URI=https://github.com/betaflight/betaflight-configurator/releases/download/10.6.0/betaflight-configurator_10.6.0_linux64.zip
 _eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	eutils	fcb2aa98e1948b835b5ae66ca52868c5
-_md5_=43033970d3f78d7ee1142fe57ab60cad
+_md5_=9a4318b4426270551b3b0da46b458a39
