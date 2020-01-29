@@ -5,7 +5,7 @@ app-misc/blackbox-tools 0.4.3: Blackbox flight data recorder tools
 app-shells/zsh-completions 9999: Additional completion definitions for Zsh
 media-gfx/splash-themes-livecd 2010.0: Gentoo theme for gensplash consoles
 media-gfx/yed 3.11.1: Powerful diagram editor that can be used to generate high-quality drawings of diagrams.
-net-im/bluejeans 1.28.9 1.31.27 1.33.15: Online meetings, video conferencing, and screen sharing for teams of any size
+net-im/bluejeans 1.33.15 2.0.0: Online meetings, video conferencing, and screen sharing for teams of any size
 net-im/slack-bin 3.3.3-r1: Team collaboration tool
 net-im/viber 7.0.0.1035-r2: Free calls, text and picture sharing with anyone, anywhere!
 net-misc/rclone-browser 1.2: Simple cross platform GUI for Rclone
