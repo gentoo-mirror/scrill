@@ -2,7 +2,6 @@ app-admin/reprepro 4.3.0-r1: Debian repository creator and maintainer applicatio
 app-backup/insync 1.2.7-r1: Advanced cross-platform Google Drive client
 app-crypt/tpmmanager 0.8.1-r1: TPM management software providing an easy to use graphical user interface
 app-misc/blackbox-tools 0.4.3: Blackbox flight data recorder tools
-app-shells/zsh-completions 9999: Additional completion definitions for Zsh
 media-gfx/splash-themes-livecd 2010.0: Gentoo theme for gensplash consoles
 media-gfx/yed 3.11.1: Powerful diagram editor that can be used to generate high-quality drawings of diagrams.
 net-im/bluejeans 1.33.15 2.0.0: Online meetings, video conferencing, and screen sharing for teams of any size
