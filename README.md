@@ -133,14 +133,16 @@
           "description": "Application for JESC firmware flashing and configuration",
           "homepage": "https://github.com/jflight-public/jesc-configurator",
           "version": [
-            "1.2.6"
+            "1.2.6",
+            "1.2.8"
           ]
         },
         "opentx-companion": {
           "description": "Models and settings editor for the OpenTX open source firmware",
           "homepage": "https://www.open-tx.org",
           "version": [
-            "2.3.1"
+            "2.3.1",
+            "2.3.5"
           ]
         }
       },
