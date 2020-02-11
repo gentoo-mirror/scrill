@@ -4,6 +4,7 @@ app-crypt/tpmmanager 0.8.1-r1: TPM management software providing an easy to use 
 app-misc/blackbox-tools 0.4.3: Blackbox flight data recorder tools
 media-gfx/splash-themes-livecd 2010.0: Gentoo theme for gensplash consoles
 media-gfx/yed 3.11.1: Powerful diagram editor that can be used to generate high-quality drawings of diagrams.
+media-sound/google-play-music-desktop-player-bin 4.7.1: A beautiful cross platform Desktop Player for Google Play Music
 net-im/bluejeans 1.33.15 2.0.0: Online meetings, video conferencing, and screen sharing for teams of any size
 net-im/slack-bin 3.3.3-r1: Team collaboration tool
 net-im/viber 7.0.0.1035-r2: Free calls, text and picture sharing with anyone, anywhere!
