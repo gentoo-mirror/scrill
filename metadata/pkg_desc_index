@@ -14,5 +14,5 @@ x11-misc/betaflight-blackbox-explorer 3.4.0-r1: This tool allows you to open log
 x11-misc/betaflight-configurator 10.6.0-r1: Crossplatform configuration tool for the Betaflight flight control system
 x11-misc/blheli-configurator 1.2.0: Application for BLHeli firmware flashing and configuration
 x11-misc/jesc-configurator 1.2.6 1.2.8: Application for JESC firmware flashing and configuration
-x11-misc/opentx-companion 2.3.1 2.3.5: Models and settings editor for the OpenTX open source firmware
+x11-misc/opentx-companion 2.3.1 2.3.5 2.3.7: Models and settings editor for the OpenTX open source firmware
 x11-themes/milky 2.0_alpha2-r2 2.0-r2: Icon theme for KDE 4 designed by Banu Onal
