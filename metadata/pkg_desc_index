@@ -1,10 +1,7 @@
 app-backup/insync 1.2.7-r1: Advanced cross-platform Google Drive client
 app-misc/blackbox-tools 0.4.3: Blackbox flight data recorder tools
 media-sound/google-play-music-desktop-player-bin 4.7.1: A beautiful cross platform Desktop Player for Google Play Music
-net-im/bluejeans 1.33.15 2.0.0: Online meetings, video conferencing, and screen sharing for teams of any size
 net-im/slack-bin 3.3.3-r1: Team collaboration tool
-net-im/viber 7.0.0.1035-r2: Free calls, text and picture sharing with anyone, anywhere!
-net-misc/rclone-browser 1.2: Simple cross platform GUI for Rclone
 x11-misc/betaflight-blackbox-explorer 3.4.0-r1 3.5.0: This tool allows you to open logs recorded by Betaflight's Blackbox feature
 x11-misc/betaflight-configurator 10.6.0-r1 10.7.0: Crossplatform configuration tool for the Betaflight flight control system
 x11-misc/blheli-configurator 1.2.0: Application for BLHeli firmware flashing and configuration
